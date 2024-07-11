@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "2294b826046c4db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f870efc2251915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50551d1cc091429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journaling/2024-06-13 -  Pattern de lifting state up.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b84407bb3c92b759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journaling/2024-07-08 - React Fetching.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ada571889faf27a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9636c3599bae4f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8602752a906d6a11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba456a9a9d54356b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "495463457edb6196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "s",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.50271224975586
+  },
+  "right": {
+    "id": "04306bc1ea125935",
+    "type": "split",
+    "children": [
+      {
+        "id": "172865d2ab1e6da3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5db68131d32f9a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journaling/2024-07-08 - React Fetching.md"
+              }
+            }
+          },
+          {
+            "id": "96c5a3d230955d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journaling/2024-07-08 - React Fetching.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c6612904e3b4ab1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "568dcfcfde84d8c9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d410802954970c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c514b757ce836bea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "faed7f2ba06a36ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Journaling/2024-07-08 - React Fetching.md"
+              }
+            }
+          },
+          {
+            "id": "e8ffb2bcce66e0e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journaling/2024-04-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "zk-prefixer:Créer une nouvelle note unique": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "b84407bb3c92b759",
+  "lastOpenFiles": [
+    "Journaling/2024-07-08 - React Fetching.md",
+    "Journaling/2024-06-20 Alimentation.md",
+    "Journaling/2024-07-05.md",
+    "Journaling/2024-06-13 -  Pattern de lifting state up.md",
+    "Journaling/02-2024/2024-02-23 - NextThemes.md",
+    "Journaling/2024-06-05.md",
+    "Journaling/2024-06-06.md",
+    "Journaling/2024-06-13.md",
+    "Notes/202406200129.md",
+    "Notes/Programmation/Web-Dev/React/Les Clés en React.md",
+    "Notes/Programmation/Web-Dev/React/Création en React - ChatGPT.md",
+    "Journaling/2024-06-05 TSX - classes TW avec des variants.md",
+    "Journaling/02-2024/2024-02-22 - Open Source.md",
+    "Journaling/2024-05-26.md",
+    "Journaling/2024-05-25.md",
+    "Journaling/2024-05-20.md",
+    "Journaling/2024-05-21.md",
+    "Journaling/02-2024/2024-02-14.md",
+    "JSON - mygoodfood.md",
+    "Notes/202402142109.md",
+    "Notes/202404251512.md",
+    "Sans titre.md",
+    "Journaling/02-2024/2024-02-09 - React.md",
+    "Journaling/02-2024/2024-02-09.md",
+    "Journaling/02-2024/2024-02-12 - API.md",
+    "Journaling/02-2024/2024-02-12 - SMART - recherche d'emploi.md",
+    "Journaling/04-2024",
+    "Pasted image 20240305093059.png",
+    "Journaling/03-2024",
+    "Journaling/02-2024",
+    "Journaling/01-2024",
+    "Recording 20240126002232.webm",
+    "Recording 20240119231957.webm",
+    "Pasted image 20240114165808.png",
+    "Pasted image 20240114170012.png",
+    "Notes/Programmation/Web-Dev/NextJS/tsconfig - nextjs.png",
+    "Notes/Programmation/Web-Dev/NextJS/out - config.png",
+    "Sans titre.canvas",
+    "Notes",
+    "Recording 20231229225010.webm",
+    "Modèles",
+    "Journaling",
+    "Sans titre 1.canvas",
+    "Sans titre 2.canvas"
+  ]
+}

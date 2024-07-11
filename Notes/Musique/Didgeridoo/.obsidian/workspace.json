@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1f0d786d289a439d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df61a3f31bff813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445a16bca4efcfa1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc23e51217807012",
+    "type": "split",
+    "children": [
+      {
+        "id": "8edfa99666e46561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b11729ea6c8b7ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8394c325a89f55b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#variété",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d09ef10cbd178c3f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c86e6713eb6718f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3de5723a6e25862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca79e795b311d42e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3454500f41973fe2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82eb8f927a15c60c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "638584723416f276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "445a16bca4efcfa1",
+  "lastOpenFiles": [
+    "Contenu Pédagogique.md",
+    "Annonce pour les cours de Didgeridoo.md"
+  ]
+}

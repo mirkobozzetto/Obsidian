@@ -1,0 +1,20 @@
+- [[push]](): Ajoute un ou plusieurs éléments à la fin du tableau et renvoie la nouvelle longueur du tableau.
+- [[pop]](): Supprime le dernier élément du tableau et renvoie cet élément.
+- [[shift]](): Supprime le premier élément du tableau et renvoie cet élément. Les indices des autres éléments du tableau sont mis à jour.
+- [[unshift]](): Ajoute un ou plusieurs éléments au début du tableau et renvoie la nouvelle longueur du tableau.
+- [[splice]](): Modifie le contenu d'un tableau en supprimant, remplaçant ou ajoutant des éléments.
+- [[slice]](): Renvoie une copie superficielle (shallow copy) d'une portion du tableau dans un nouveau tableau.
+- [[concat]](): Fusionne deux tableaux ou plus et renvoie un nouveau tableau.
+- [[join]](): Joint tous les éléments d'un tableau en une seule chaîne de caractères en utilisant un séparateur spécifié.
+- [[reverse]](): Inverse l'ordre des éléments dans le tableau.
+- [[sort]](): Trie les éléments du tableau dans leur ordre de tri par défaut (lexicographique) ou en utilisant une fonction de comparaison spécifiée.
+- [[indexOf]](): Renvoie le premier index auquel un élément donné peut être trouvé dans le tableau, ou -1 s'il n'est pas présent.
+- [[lastIndexOf]](): Renvoie le dernier index auquel un élément donné peut être trouvé dans le tableau, ou -1 s'il n'est pas présent.
+- [[filter]](): Crée un nouveau tableau avec tous les éléments qui passent le test d'une fonction donnée.
+- [[map]](): Crée un nouveau tableau avec les résultats de l'appel d'une fonction fournie sur chaque élément du tableau.
+- [[reduce]](): Applique une fonction à un accumulateur et à chaque élément du tableau (de gauche à droite) pour réduire le tableau à une seule valeur.
+- [[forEach]](): Exécute une fonction donnée une fois pour chaque élément du tableau.
+- [[every]](): Vérifie si tous les éléments du tableau satisfont une condition donnée.
+- [[some]](): Vérifie si au moins un élément du tableau satisfait une condition donnée.
+- [[find]](): Renvoie la première valeur d'un tableau qui satisfait une condition donnée.
+- [[findIndex]](): Renvoie le premier index d'un tableau où un élément satisfait une condition donnée.
