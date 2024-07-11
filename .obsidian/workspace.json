@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Voici un premier article de Blog.md",
+                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Voici un premier article de Blog.md"
+                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Voici un premier article de Blog.md",
+                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Blog/Voici un premier article de Blog.md"
+                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md"
               }
             }
           },
@@ -190,13 +190,17 @@
   },
   "active": "0a6d95df5556b729",
   "lastOpenFiles": [
+    "Journaling/2024-07-11.md",
+    "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
+    "Journaling/04-2024/2024-04-25 - Destructuring assignmen.md",
+    "Journaling/04-2024/2024-04-08 MyGoodFood Form.md",
+    "Journaling/04-2024/2024-04-15.md",
+    "Journaling/Voici un premier article de Blog.md",
     "vscode-notes/notes.md",
-    "Blog/Voici un premier article de Blog.md",
     "Blog",
     "Sans titre.md",
     "Journaling/2024-06-13 -  Pattern de lifting state up.md",
     "Notes/202407111450.md",
-    "Journaling/2024-07-11.md",
     "Journaling/2024-07-08 - React Fetching.md",
     "Journaling/2024-06-20 Alimentation.md",
     "Journaling/2024-07-05.md",
@@ -213,10 +217,6 @@
     "Journaling/2024-05-25.md",
     "Journaling/2024-05-20.md",
     "Journaling/2024-05-21.md",
-    "Journaling/02-2024/2024-02-14.md",
-    "JSON - mygoodfood.md",
-    "Notes/202402142109.md",
-    "Notes/202404251512.md",
     "Journaling/04-2024",
     "Pasted image 20240305093059.png",
     "Journaling/03-2024",
