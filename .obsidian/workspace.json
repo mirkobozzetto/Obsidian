@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "89f870efc2251915",
+        "id": "b45ca35e90b103be",
         "type": "tabs",
         "children": [
           {
-            "id": "d50551d1cc091429",
+            "id": "0a6d95df5556b729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaling/2024-06-13 -  Pattern de lifting state up.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b84407bb3c92b759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journaling/2024-07-08 - React Fetching.md",
+                "file": "Blog/Voici un premier article de Blog.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journaling/2024-07-08 - React Fetching.md"
+                "file": "Blog/Voici un premier article de Blog.md"
               }
             }
           },
@@ -111,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journaling/2024-07-08 - React Fetching.md",
+                "file": "Blog/Voici un premier article de Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Journaling/2024-07-08 - React Fetching.md"
+                "file": "Blog/Voici un premier article de Blog.md"
               }
             }
           },
@@ -193,22 +178,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "zk-prefixer:Créer une nouvelle note unique": false,
       "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "workspaces:Gérer les espaces de travail": false,
       "graph:Ouvrir la vue graphique": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b84407bb3c92b759",
+  "active": "0a6d95df5556b729",
   "lastOpenFiles": [
+    "vscode-notes/notes.md",
+    "Blog/Voici un premier article de Blog.md",
+    "Blog",
+    "Sans titre.md",
+    "Journaling/2024-06-13 -  Pattern de lifting state up.md",
+    "Notes/202407111450.md",
+    "Journaling/2024-07-11.md",
     "Journaling/2024-07-08 - React Fetching.md",
     "Journaling/2024-06-20 Alimentation.md",
     "Journaling/2024-07-05.md",
-    "Journaling/2024-06-13 -  Pattern de lifting state up.md",
     "Journaling/02-2024/2024-02-23 - NextThemes.md",
     "Journaling/2024-06-05.md",
     "Journaling/2024-06-06.md",
@@ -226,11 +217,6 @@
     "JSON - mygoodfood.md",
     "Notes/202402142109.md",
     "Notes/202404251512.md",
-    "Sans titre.md",
-    "Journaling/02-2024/2024-02-09 - React.md",
-    "Journaling/02-2024/2024-02-09.md",
-    "Journaling/02-2024/2024-02-12 - API.md",
-    "Journaling/02-2024/2024-02-12 - SMART - recherche d'emploi.md",
     "Journaling/04-2024",
     "Pasted image 20240305093059.png",
     "Journaling/03-2024",
@@ -246,7 +232,6 @@
     "Notes",
     "Recording 20231229225010.webm",
     "Modèles",
-    "Journaling",
     "Sans titre 1.canvas",
     "Sans titre 2.canvas"
   ]
