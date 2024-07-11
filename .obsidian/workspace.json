@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
+                "file": "Journaling/2024-07-12 - NextJS Movie API.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "tag:#nextjs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md"
+                "file": "Journaling/2024-07-12 - NextJS Movie API.md"
               }
             }
           },
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
+                "file": "Journaling/2024-07-12 - NextJS Movie API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Journaling/04-2024/2024-04-29 - C pointers and memory.md"
+                "file": "Journaling/2024-07-12 - NextJS Movie API.md"
               }
             }
           },
@@ -188,10 +189,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0a6d95df5556b729",
+  "active": "495463457edb6196",
   "lastOpenFiles": [
-    "Journaling/2024-07-11.md",
     "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
+    "Journaling/2024-07-12 - NextJS Movie API.md",
+    "Journaling/2024-07-11.md",
     "Journaling/04-2024/2024-04-25 - Destructuring assignmen.md",
     "Journaling/04-2024/2024-04-08 MyGoodFood Form.md",
     "Journaling/04-2024/2024-04-15.md",
@@ -216,7 +218,6 @@
     "Journaling/2024-05-26.md",
     "Journaling/2024-05-25.md",
     "Journaling/2024-05-20.md",
-    "Journaling/2024-05-21.md",
     "Journaling/04-2024",
     "Pasted image 20240305093059.png",
     "Journaling/03-2024",
