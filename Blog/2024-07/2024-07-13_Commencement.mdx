@@ -1,0 +1,98 @@
+
+---
+title: "Mon voyage de développement : Créer un blog Next.js avec GitHub comme CMS"
+date: "2024-07-14"
+author: "Votre Nom"
+tags: ["Next.js", "React", "GitHub", "Octokit", "MDX"]
+---
+
+# Mon voyage de développement : Créer un blog Next.js avec GitHub comme CMS
+
+![Un ordinateur portable affichant du code React](https://example.com/path-to-your-image.jpg)
+
+## L'inspiration derrière le projet
+
+Tout a commencé lorsque j'ai rejoint la communauté **Codeline**. L'énergie et la créativité que j'y ai trouvées m'ont inspiré à repousser mes limites en tant que développeur. C'est là que j'ai eu l'idée de créer un blog personnel utilisant les technologies modernes que j'apprenais.
+
+> "La meilleure façon d'apprendre, c'est de construire." - Un sage développeur
+
+## Les formations qui ont tout changé
+
+Deux formations en particulier ont joué un rôle crucial dans mon parcours :
+
+1. **BeginReact** par Melvyn
+2. **NextReact** également par Melvyn
+
+Ces cours m'ont non seulement enseigné les bases de React et Next.js, mais m'ont aussi donné la confiance nécessaire pour me lancer dans des projets ambitieux.
+
+## Le concept du blog
+
+J'ai voulu créer quelque chose d'unique : un blog qui utiliserait GitHub comme système de gestion de contenu (CMS). Voici les points clés de mon projet :
+
+- Utilisation de **Next.js** comme framework principal
+- **GitHub** comme stockage pour mes articles Markdown/MDX
+- **Octokit** pour interagir avec l'API GitHub
+- **MDX** pour des articles de blog riches et interactifs
+
+## Le processus de développement
+
+### 1. Configuration initiale
+
+```jsx
+import { Octokit } from "@octokit/rest";
+
+const octokit = new Octokit({
+  auth: process.env.GITHUB_TOKEN,
+});
+```
+
+### 2. Récupération des articles depuis GitHub
+
+```tsx
+async function getBlogPosts() {
+  const { data } = await octokit.repos.getContent({
+    owner: "votre-username",
+    repo: "votre-repo",
+    path: "blog",
+  });
+  
+  // Traitement des données...
+}
+```
+
+### 3. Rendu des articles avec MDX
+
+J'ai utilisé `next-mdx-remote` pour rendre mes articles MDX :
+
+```tsx
+import { MDXRemote } from 'next-mdx-remote';
+import { serialize } from 'next-mdx-remote/serialize';
+
+// Dans votre composant de page
+const Article = ({ source }) => {
+  return (
+    <MDXRemote {...source} />
+  );
+};
+
+// Dans getStaticProps
+export async function getStaticProps() {
+  const source = await serialize(mdxContent);
+  return { props: { source } };
+}
+```
+
+## Les défis rencontrés
+
+- **Typage avec TypeScript** : Assurer un typage correct, en particulier avec les composants MDX, a été un défi intéressant.
+- **Styling cohérent** : Créer un système de style qui fonctionne bien avec MDX tout en utilisant Tailwind CSS.
+
+## Conclusion
+
+Ce projet a été une aventure incroyable. Non seulement j'ai approfondi mes connaissances en React et Next.js, mais j'ai aussi appris à travailler avec l'API GitHub et à créer un système de blog flexible et puissant.
+
+Je suis reconnaissant envers la communauté Codeline et les formateurs comme Melvyn qui m'ont inspiré et guidé tout au long de ce parcours.
+
+---
+
+_Cet article a été écrit avec passion et un peu de caféine. Si vous avez des questions ou des commentaires, n'hésitez pas à les laisser ci-dessous !_
