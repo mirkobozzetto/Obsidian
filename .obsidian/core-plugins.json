@@ -7,10 +7,14 @@
   "properties",
   "page-preview",
   "daily-notes",
+  "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
   "bookmarks",
   "outline",
-  "word-count"
+  "word-count",
+  "audio-recorder",
+  "workspaces",
+  "sync"
 ]

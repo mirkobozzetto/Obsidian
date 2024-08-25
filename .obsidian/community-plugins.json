@@ -17,5 +17,7 @@
   "obsidian-wakatime",
   "obsidian-git",
   "terminal",
-  "mdx-as-md-obsidian"
+  "mdx-as-md-obsidian",
+  "execute-code",
+  "smart-templates"
 ]

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b45ca35e90b103be",
+        "id": "7d4c2bda4a4c4aad",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6d95df5556b729",
+            "id": "7cf25ac887190e3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/2024-07/2024-07-13_Commencement.mdx",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -47,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#nextjs",
+                "query": "tag:#daily",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5004348754883
+    "width": 201.50271224975586
   },
   "right": {
     "id": "04306bc1ea125935",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blog/2024-07/2024-07-13_Commencement.mdx"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/2024-07/2024-07-13_Commencement.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,52 +165,55 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-importer:Open Importer": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false
     }
   },
-  "active": "0a6d95df5556b729",
+  "active": "7cf25ac887190e3d",
   "lastOpenFiles": [
-    "Blog/2024-07/2024-07-12_Introduction.mdx",
-    "Blog/2024-07/2024-07-13_Commencement.md",
-    "Blog/2024-07/2024-07-13_Commencement.mdx",
-    "Journaling/2024-07-12.md",
-    "Journaling/01-2024/2024-01-12 - Threads X.md",
-    "Blog/2024-07/2024-07-02_intro.md",
-    "Journaling/Voici un premier article de Blog.md",
-    "Journaling/2024-07-12 - NextJS Movie API.md",
-    "Journaling/2024-07-08 - React Fetching.md",
+    "03_Ressources/Topics/Programmation/Web-Dev/ACF - advance custom fields.md",
+    "03_Ressources/Topics/Musique/Didgeridoo/Annonce pour les cours de Didgeridoo.md",
+    "Topics/202407111450.md",
+    "03_Ressources/Topics/Musique/Didgeridoo/Contenu Pédagogique.md",
+    "Journaling/2024-08-25.md",
+    "smart-templates/default/overview.md",
+    "Journaling/04-2024/2024-04-25.md",
+    "smart-templates/default/tags.md",
+    "03_Ressources/Topics/Programmation/Web-Dev/Bases JS/Methodes/Manipulation de tableaux/find.md",
+    "smart-templates/var_prompts.json",
+    "smart-templates/default",
+    "smart-templates",
+    "03_Ressources/Topics/Programmation/Web-Dev/Bases JS/Methodes/Manipulation de tableaux/filter.md",
+    "03_Ressources/Topics/Programmation/Web-Dev/Bases JS/Methodes/Manipulation de tableaux/concat.md",
+    "03_Ressources/Topics/Programmation/C/Fonctions/strlcat.md",
+    "03_Ressources/Topics/Programmation/C/BSD.md",
+    "03_Ressources/Topics/Programmation/C/Algorithmes/03Selection Sort.md",
+    "03_Ressources/Topics/Programmation/C/Algorithmes/02Insertion Sort.md",
+    "03_Ressources/Topics/Programmation/C/Algorithmes/01Bubble Sort.md",
     "Journaling/04-2024/2024-04-29 - C pointers and memory.md",
-    "Journaling/2024-07-11.md",
-    "Journaling/04-2024/2024-04-25 - Destructuring assignmen.md",
-    "Journaling/04-2024/2024-04-08 MyGoodFood Form.md",
-    "Journaling/04-2024/2024-04-15.md",
-    "vscode-notes/notes.md",
-    "Blog",
-    "Sans titre.md",
-    "Journaling/2024-06-13 -  Pattern de lifting state up.md",
-    "Notes/202407111450.md",
-    "Journaling/2024-06-20 Alimentation.md",
-    "Journaling/2024-07-05.md",
-    "Journaling/02-2024/2024-02-23 - NextThemes.md",
-    "Journaling/2024-06-05.md",
-    "Journaling/2024-06-06.md",
-    "Journaling/2024-06-13.md",
-    "Notes/202406200129.md",
-    "Notes/Programmation/Web-Dev/React/Les Clés en React.md",
-    "Notes/Programmation/Web-Dev/React/Création en React - ChatGPT.md",
-    "Journaling/04-2024",
+    "Journaling/02-2024/2024-02-02 - Konnakol API.md",
+    "Blog/2024-07/2024-07-16_Prompt.mdx",
+    "Archives/Sans titre.md",
+    "Archives/Sans titre 1.md",
+    "04_Archives",
+    "03_Ressources",
+    "02_Areas",
+    "01_Projects/CuratedDEv.md",
+    "03_Ressources/Topics/Programmation/Web-Dev/Bases JS/Fetch.md",
+    "01_Projects",
+    "01_Projects/JSON - mygoodfood.md",
+    "Journaling/2024-07-18_Storybook.md",
+    "Journaling/2024-07-24.md",
+    "Journaling/2024-07-16.md",
+    "Blog/2024-07/2024-07-14_Questionnement.mdx",
+    "Blog/2024-07/2024-07-13_Commencement.mdx",
     "Pasted image 20240305093059.png",
-    "Journaling/03-2024",
-    "Journaling/02-2024",
-    "Journaling/01-2024",
-    "Recording 20240126002232.webm",
-    "Recording 20240119231957.webm",
     "Pasted image 20240114165808.png",
     "Pasted image 20240114170012.png",
     "Notes/Programmation/Web-Dev/NextJS/tsconfig - nextjs.png",
     "Notes/Programmation/Web-Dev/NextJS/out - config.png",
     "Sans titre.canvas",
-    "Notes",
     "Sans titre 1.canvas",
     "Sans titre 2.canvas"
   ]
