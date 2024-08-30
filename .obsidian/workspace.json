@@ -11,8 +11,13 @@
             "id": "7cf25ac887190e3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journaling/2024-08-30  My Good Food.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journaling/2024-08-30  My Good Food.md"
+              }
             }
           },
           {
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journaling/2024-08-30  My Good Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +180,15 @@
   },
   "active": "7cf25ac887190e3d",
   "lastOpenFiles": [
+    "Journaling/2024-07-18_Storybook.md",
+    "Journaling/2024-08-30  My Good Food.md",
+    "Journaling/2024-08-28.md",
+    "Journaling/2024-08-25.md",
+    "Journaling/2024-08-26.md",
     "03_Ressources/Topics/Programmation/Web-Dev/ACF - advance custom fields.md",
     "03_Ressources/Topics/Musique/Didgeridoo/Annonce pour les cours de Didgeridoo.md",
     "Topics/202407111450.md",
     "03_Ressources/Topics/Musique/Didgeridoo/Contenu Pédagogique.md",
-    "Journaling/2024-08-25.md",
     "smart-templates/default/overview.md",
     "Journaling/04-2024/2024-04-25.md",
     "smart-templates/default/tags.md",
@@ -202,10 +214,6 @@
     "01_Projects/CuratedDEv.md",
     "03_Ressources/Topics/Programmation/Web-Dev/Bases JS/Fetch.md",
     "01_Projects",
-    "01_Projects/JSON - mygoodfood.md",
-    "Journaling/2024-07-18_Storybook.md",
-    "Journaling/2024-07-24.md",
-    "Journaling/2024-07-16.md",
     "Blog/2024-07/2024-07-14_Questionnement.mdx",
     "Blog/2024-07/2024-07-13_Commencement.mdx",
     "Pasted image 20240305093059.png",
